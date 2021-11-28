@@ -1,0 +1,16 @@
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\bin\Debug\net5.0\Degiskenler.exe
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\bin\Debug\net5.0\Degiskenler.deps.json
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.json
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.dev.json
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\bin\Debug\net5.0\Degiskenler.dll
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\bin\Debug\net5.0\ref\Degiskenler.dll
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\bin\Debug\net5.0\Degiskenler.pdb
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\obj\Debug\net5.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfo.cs
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\obj\Debug\net5.0\Degiskenler.dll
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\obj\Debug\net5.0\ref\Degiskenler.dll
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\obj\Debug\net5.0\Degiskenler.pdb
+C:\Users\nurse\source\repos\Degiskenler\Degiskenler\obj\Debug\net5.0\Degiskenler.genruntimeconfig.cache
