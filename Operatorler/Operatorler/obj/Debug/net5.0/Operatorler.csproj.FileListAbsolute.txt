@@ -1,0 +1,16 @@
+C:\Users\nurse\source\repos\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.exe
+C:\Users\nurse\source\repos\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+C:\Users\nurse\source\repos\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+C:\Users\nurse\source\repos\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+C:\Users\nurse\source\repos\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.dll
+C:\Users\nurse\source\repos\Operatorler\Operatorler\bin\Debug\net5.0\ref\Operatorler.dll
+C:\Users\nurse\source\repos\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+C:\Users\nurse\source\repos\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.csproj.AssemblyReference.cache
+C:\Users\nurse\source\repos\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurse\source\repos\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\nurse\source\repos\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+C:\Users\nurse\source\repos\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.dll
+C:\Users\nurse\source\repos\Operatorler\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
+C:\Users\nurse\source\repos\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+C:\Users\nurse\source\repos\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
