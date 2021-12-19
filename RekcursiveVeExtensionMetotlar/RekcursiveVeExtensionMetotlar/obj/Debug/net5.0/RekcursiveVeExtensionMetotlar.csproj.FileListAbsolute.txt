@@ -1,0 +1,16 @@
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\bin\Debug\net5.0\RekcursiveVeExtensionMetotlar.exe
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\bin\Debug\net5.0\RekcursiveVeExtensionMetotlar.deps.json
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\bin\Debug\net5.0\RekcursiveVeExtensionMetotlar.runtimeconfig.json
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\bin\Debug\net5.0\RekcursiveVeExtensionMetotlar.runtimeconfig.dev.json
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\bin\Debug\net5.0\RekcursiveVeExtensionMetotlar.dll
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\bin\Debug\net5.0\ref\RekcursiveVeExtensionMetotlar.dll
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\bin\Debug\net5.0\RekcursiveVeExtensionMetotlar.pdb
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\obj\Debug\net5.0\RekcursiveVeExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\obj\Debug\net5.0\RekcursiveVeExtensionMetotlar.AssemblyInfoInputs.cache
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\obj\Debug\net5.0\RekcursiveVeExtensionMetotlar.AssemblyInfo.cs
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\obj\Debug\net5.0\RekcursiveVeExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\obj\Debug\net5.0\RekcursiveVeExtensionMetotlar.dll
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\obj\Debug\net5.0\ref\RekcursiveVeExtensionMetotlar.dll
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\obj\Debug\net5.0\RekcursiveVeExtensionMetotlar.pdb
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\obj\Debug\net5.0\RekcursiveVeExtensionMetotlar.genruntimeconfig.cache
+C:\Users\nurse\source\repos\RekcursiveVeExtensionMetotlar\RekcursiveVeExtensionMetotlar\obj\Debug\net5.0\RekcursiveVeExtensionMetotlar.csproj.AssemblyReference.cache
