@@ -1,0 +1,15 @@
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\bin\Debug\net5.0\DateTimeVeMathSiniflari.exe
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\bin\Debug\net5.0\DateTimeVeMathSiniflari.deps.json
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\bin\Debug\net5.0\DateTimeVeMathSiniflari.runtimeconfig.json
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\bin\Debug\net5.0\DateTimeVeMathSiniflari.runtimeconfig.dev.json
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\bin\Debug\net5.0\DateTimeVeMathSiniflari.dll
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\bin\Debug\net5.0\ref\DateTimeVeMathSiniflari.dll
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\bin\Debug\net5.0\DateTimeVeMathSiniflari.pdb
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\obj\Debug\net5.0\DateTimeVeMathSiniflari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\obj\Debug\net5.0\DateTimeVeMathSiniflari.AssemblyInfoInputs.cache
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\obj\Debug\net5.0\DateTimeVeMathSiniflari.AssemblyInfo.cs
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\obj\Debug\net5.0\DateTimeVeMathSiniflari.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\obj\Debug\net5.0\DateTimeVeMathSiniflari.dll
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\obj\Debug\net5.0\ref\DateTimeVeMathSiniflari.dll
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\obj\Debug\net5.0\DateTimeVeMathSiniflari.pdb
+C:\Users\nurse\source\repos\DateTimeVeMathSiniflari\DateTimeVeMathSiniflari\obj\Debug\net5.0\DateTimeVeMathSiniflari.genruntimeconfig.cache
