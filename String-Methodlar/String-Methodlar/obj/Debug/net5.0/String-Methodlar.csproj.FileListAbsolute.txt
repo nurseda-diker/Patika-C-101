@@ -1,0 +1,16 @@
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\bin\Debug\net5.0\String-Methodlar.exe
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\bin\Debug\net5.0\String-Methodlar.deps.json
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\bin\Debug\net5.0\String-Methodlar.runtimeconfig.json
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\bin\Debug\net5.0\String-Methodlar.runtimeconfig.dev.json
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\bin\Debug\net5.0\String-Methodlar.dll
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\bin\Debug\net5.0\ref\String-Methodlar.dll
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\bin\Debug\net5.0\String-Methodlar.pdb
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\obj\Debug\net5.0\String-Methodlar.csproj.AssemblyReference.cache
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\obj\Debug\net5.0\String-Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\obj\Debug\net5.0\String-Methodlar.AssemblyInfoInputs.cache
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\obj\Debug\net5.0\String-Methodlar.AssemblyInfo.cs
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\obj\Debug\net5.0\String-Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\obj\Debug\net5.0\String-Methodlar.dll
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\obj\Debug\net5.0\ref\String-Methodlar.dll
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\obj\Debug\net5.0\String-Methodlar.pdb
+C:\Users\nurse\source\repos\String-Methodlar\String-Methodlar\obj\Debug\net5.0\String-Methodlar.genruntimeconfig.cache
