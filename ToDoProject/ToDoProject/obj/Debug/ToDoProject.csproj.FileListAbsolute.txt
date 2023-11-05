@@ -1,0 +1,8 @@
+C:\Users\nurse\source\repos\ToDoProject\ToDoProject\bin\Debug\ToDoProject.exe.config
+C:\Users\nurse\source\repos\ToDoProject\ToDoProject\bin\Debug\ToDoProject.exe
+C:\Users\nurse\source\repos\ToDoProject\ToDoProject\bin\Debug\ToDoProject.pdb
+C:\Users\nurse\source\repos\ToDoProject\ToDoProject\obj\Debug\ToDoProject.csproj.AssemblyReference.cache
+C:\Users\nurse\source\repos\ToDoProject\ToDoProject\obj\Debug\ToDoProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurse\source\repos\ToDoProject\ToDoProject\obj\Debug\ToDoProject.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\ToDoProject\ToDoProject\obj\Debug\ToDoProject.exe
+C:\Users\nurse\source\repos\ToDoProject\ToDoProject\obj\Debug\ToDoProject.pdb
